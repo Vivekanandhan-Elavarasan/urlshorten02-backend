@@ -13,11 +13,13 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.9",
     "nodemailer": "^6.4.10",
+    "nodemon": "^2.0.4",
     "randomstring": "^1.1.5",
     "url": "^0.11.0"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
