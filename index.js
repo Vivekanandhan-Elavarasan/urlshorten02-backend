@@ -47,7 +47,7 @@ var server = app.listen(process.env.PORT || 3000, function () {
 
 
 app.get('/', function (req, res) {
-    res.status(200).send('/register to register. /login to login. /reset to reset password');
+    res.status(200).send(' /register ,   /login , /reset (reset password)');
 })
 
 
