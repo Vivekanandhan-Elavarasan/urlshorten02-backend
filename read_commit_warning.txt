@@ -1,0 +1,3 @@
+.env file deleted directly in github 
+and heroku app automatic is not enabled
+so becareful and aware befoe commiting and editing 
