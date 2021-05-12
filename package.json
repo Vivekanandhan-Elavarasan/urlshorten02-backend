@@ -12,7 +12,7 @@
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.9",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "nodemon": "^2.0.4",
     "randomstring": "^1.1.5",
     "url": "^0.11.0"
